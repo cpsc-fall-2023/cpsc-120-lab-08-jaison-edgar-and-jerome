@@ -1,7 +1,7 @@
 // Jaison Gamboa
 // Jaisong2368@csu.fullerton.edu
 // @Jaisong2368
-// Partners: @edgarp8, @jeromeayala
+// Partners: @edgarp8
 
 #include <iostream>
 #include <string>
